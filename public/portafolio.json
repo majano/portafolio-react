@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "imagen": "google.jpg",
+      "titulo": "Google",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "link": "https://www.google.com"
+    },
+    {
+      "id": 2,
+      "imagen": "yahoo.jpg",
+      "titulo": "Yahoo",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "link": "https://www.yahoo.com"
+    },
+    {
+      "id": 3,
+      "imagen": "microsoft.jpg",
+      "titulo": "Microsoft",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "link": "https://www.microsoft.com"
+    },
+    {
+      "id": 4,
+      "imagen": "facebook.jpg",
+      "titulo": "Facebook",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "link": "https://www.facebook.com"
+    },
+    {
+      "id": 5,
+      "imagen": "twitter.jpg",
+      "titulo": "Twitter",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "link": "https://www.twitter.com"
+    }
+  ]
+}
